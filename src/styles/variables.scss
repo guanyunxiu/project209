@@ -1,0 +1,23 @@
+$primary-color: #409eff;
+$success-color: #67c23a;
+$warning-color: #e6a23c;
+$danger-color: #f56c6c;
+$info-color: #909399;
+
+$holiday-color: #f56c6c;
+$weekend-color: #909399;
+$today-color: #409eff;
+$selected-color: #ecf5ff;
+
+$event-colors: (
+  blue: #409eff,
+  green: #67c23a,
+  orange: #e6a23c,
+  red: #f56c6c,
+  purple: #8e44ad,
+  cyan: #16a085
+);
+
+$border-radius: 8px;
+$box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+$transition: all 0.3s ease;
